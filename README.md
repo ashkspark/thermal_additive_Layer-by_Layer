@@ -3,3 +3,8 @@ Heat equation numerical solution for PDE in 3D media applied to additive manufac
 <p align="middle">
   <img src="Presentation2x.png" width="1000" />
 </p>
+
+
+<p align="middle">
+  <img src="Presentation2x.png" width="1000" />
+</p>
